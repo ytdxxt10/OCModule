@@ -14,4 +14,6 @@
 
 5.左滑添加按钮
 
-效果图
+##*如果你喜欢就加个star吧😊*
+*效果图* 
+![image](https://github.com/ytdxxt10/OCModule/raw/master/select.gif)
